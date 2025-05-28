@@ -34,7 +34,3 @@ Actualmente cursando estudios en Administración de Sistemas, con conocimientos 
 - Resolución de problemas de conectividad
 
 ---
-
-## Contacto
-Disponible para oportunidades de aprendizaje y colaboración en proyectos relacionados con administración de sistemas y desarrollo.
-Puedes contactarme a través de mi correo electrónico o LinkedIn.
